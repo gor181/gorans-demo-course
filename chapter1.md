@@ -9,7 +9,7 @@ description: Test
 type: NormalExercise
 lang: python
 xp: 100
-skills: 2
+skills: 1
 key: 6a2c75f779
 ```
 
