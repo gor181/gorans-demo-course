@@ -8,7 +8,7 @@ description: Test
 ```yaml
 type: NormalExercise
 lang: python
-xp: 100
+xp: 300
 skills: 1
 key: 6a2c75f779
 ```
